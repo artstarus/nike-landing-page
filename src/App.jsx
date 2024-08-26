@@ -1,6 +1,6 @@
 import {    
   Hero,
-  PopularProducts,
+  TrendingProducts,
   CustomerReviews,
   Footer,
   Services,
@@ -17,7 +17,7 @@ const App = () => (
       <Hero/>
     </section>
     <section className="padding">
-      <PopularProducts/>
+      <TrendingProducts/>
     </section>
     <section className="padding">
       <SuperQuality/>
