@@ -6,7 +6,7 @@ import {
   Services,
   SpecialOffers,
   Subscribe,
-  SuperQuality
+  SuperiorQuality
 } from './sections';
 import Nav from './components/Nav.jsx';
 
@@ -20,7 +20,7 @@ const App = () => (
       <TrendingProducts/>
     </section>
     <section className="padding">
-      <SuperQuality/>
+      <SuperiorQuality/>
     </section>
     <section className="padding-x py-10">
       <Services/>
