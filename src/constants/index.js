@@ -24,48 +24,48 @@ export const shoes = [
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '1k+', label: 'Locations' },
+    { value: '500+', label: 'Affiliates' },
+    { value: '10M+', label: 'Customers' },
 ];
 
 export const products = [
     {
         imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        name: "Nike Zoom",
+        price: "$190.00",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "Nike Air Force 1",
+        price: "$112.00",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
+        name: "Nike Air Max 720",
+        price: "$179.00",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "Nike Air Jordan 1",
+        price: "$240.00",
     },
 ];
 
 export const services = [
     {
         imgURL: truckFast,
-        label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        label: "Free Shipping",
+        subtext: "Enjoy seamless shopping with our complimentary shipping services."
     },
     {
         imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        label: "Secure Payments",
+        subtext: "Experience worry-free transactions with our secure payment plans and options."
     },
     {
         imgURL: support,
-        label: "Love to help you",
+        label: "24/7 Customer Support",
         subtext: "Our dedicated team is here to assist you every step of the way."
     },
 ];
@@ -73,15 +73,15 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
+        customerName: 'David Brown',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "These shoes have completely transformed my workouts! The comfort and support they provide are unmatched, making every run feel effortless. I’ve never felt more confident in my stride."
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        customerName: 'Laura Jonsdottir',
+        rating: 4.8,
+        feedback: "I’m blown away by the quality and design of these sneakers. They not only look fantastic but also offer incredible durability and performance. My feet have never felt better, even after long hours of wear."
     }
 ];
 
@@ -91,11 +91,11 @@ export const footerLinks = [
         title: "Products",
         links: [
             { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
+            { name: "Air Max 720", link: "/" },
             { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Nike Zoom", link: "/" },
+            { name: "Nike Air Max 97", link: "/" },
+            { name: "Nike SB Dunks", link: "/" },
         ],
     },
     {
@@ -112,7 +112,7 @@ export const footerLinks = [
         title: "Get in touch",
         links: [
             { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "1-800-806-6453", link: "tel:1-800-806-6453" },
         ],
     },
 ];
