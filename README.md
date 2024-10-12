@@ -1,4 +1,4 @@
-# Nike Landing Page - A nike landing page designed with React.js + Tailwind CSS.
+# Nike Landing Page - A Nike landing page designed with React.js + Tailwind CSS.
 
 Check out the deployed landing page ---> [Nike](https://nike-tailwind-landing-rose.vercel.app/)
 
